@@ -1,0 +1,13 @@
+[  { "nodeid": 0, "depth": 0, "split": "tmdb_multi", "split_condition": 11.2008772, "yes": 1, "no": 2, "missing": 1 , "children": [
+    { "nodeid": 1, "leaf": -0.0352941193 }, 
+    { "nodeid": 2, "leaf": 0.0600000024 }
+  ]},  { "nodeid": 0, "depth": 0, "split": "tmdb_multi", "split_condition": 11.2008772, "yes": 1, "no": 2, "missing": 1 , "children": [
+    { "nodeid": 1, "leaf": -0.0635887012 }, 
+    { "nodeid": 2, "leaf": 0.0795159563 }
+  ]},  { "nodeid": 0, "depth": 0, "split": "tmdb_multi", "split_condition": 11.2008772, "yes": 1, "no": 2, "missing": 1 , "children": [
+    { "nodeid": 1, "leaf": -0.0593140386 }, 
+    { "nodeid": 2, "leaf": 0.0743185356 }
+  ]},  { "nodeid": 0, "depth": 0, "split": "tmdb_multi", "split_condition": 11.2008772, "yes": 1, "no": 2, "missing": 1 , "children": [
+    { "nodeid": 1, "leaf": -0.0524162352 }, 
+    { "nodeid": 2, "leaf": 0.0565559454 }
+  ]}]
